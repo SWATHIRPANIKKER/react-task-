@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-task-.git/static/css/main.0616305a.chunk.css",
+    "main.js": "/react-task-.git/static/js/main.96edafa5.chunk.js",
+    "main.js.map": "/react-task-.git/static/js/main.96edafa5.chunk.js.map",
+    "runtime-main.js": "/react-task-.git/static/js/runtime-main.dc2ad5f9.js",
+    "runtime-main.js.map": "/react-task-.git/static/js/runtime-main.dc2ad5f9.js.map",
+    "static/js/2.2cbb2b35.chunk.js": "/react-task-.git/static/js/2.2cbb2b35.chunk.js",
+    "static/js/2.2cbb2b35.chunk.js.map": "/react-task-.git/static/js/2.2cbb2b35.chunk.js.map",
+    "static/js/3.b46889bf.chunk.js": "/react-task-.git/static/js/3.b46889bf.chunk.js",
+    "static/js/3.b46889bf.chunk.js.map": "/react-task-.git/static/js/3.b46889bf.chunk.js.map",
+    "index.html": "/react-task-.git/index.html",
+    "static/css/main.0616305a.chunk.css.map": "/react-task-.git/static/css/main.0616305a.chunk.css.map",
+    "static/js/2.2cbb2b35.chunk.js.LICENSE.txt": "/react-task-.git/static/js/2.2cbb2b35.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-task-.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc2ad5f9.js",
+    "static/js/2.2cbb2b35.chunk.js",
+    "static/css/main.0616305a.chunk.css",
+    "static/js/main.96edafa5.chunk.js"
+  ]
+}
